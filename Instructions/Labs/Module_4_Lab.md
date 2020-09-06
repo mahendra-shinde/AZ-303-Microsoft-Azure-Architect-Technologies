@@ -46,32 +46,27 @@ After completing this lab, you will be able to:
 
 ## Lab Environment
   
-Windows Server admin credentials
-
--  User Name: **Student**
-
--  Password: **Pa55w.rd1234**
 
 Estimated Time: 120 minutes
 
 
-## Lab Files
+## Lab Files (User CTRL + CLICK) to open each document in new tab)
 
--  \\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301suba.json
+-  [\\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301suba.json](https://github.com/mahendra-shinde/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Allfiles/Labs/01/azuredeploy30301suba.json)
 
--  \\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301rga.json
+-  [\\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301rga.json](https://github.com/mahendra-shinde/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Allfiles/Labs/01/azuredeploy30301rga.json)
 
--  \\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301rga.parameters.json
+-  [\\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301rga.parameters.json](https://github.com/mahendra-shinde/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Allfiles/Labs/01/azuredeploy30301rga.parameters.json)
 
--  \\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301rgb.json
+-  [\\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301rgb.json](https://github.com/mahendra-shinde/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Allfiles/Labs/01/azuredeploy30301rgb.json)
 
--  \\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301rgb.parameters.json
+-  [\\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301rgb.parameters.json](https://github.com/mahendra-shinde/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Allfiles/Labs/01/azuredeploy30301rgb.parameters.json)
 
--  \\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301rgc.json
+-  [\\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301rgc.json](https://github.com/mahendra-shinde/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Allfiles/Labs/01/azuredeploy30301rgc.json)
 
--  \\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301rgc.parameters.json
+-  [\\AZ303\\AllFiles\\Labs\\01\\azuredeploy30301rgc.parameters.json](https://github.com/mahendra-shinde/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Allfiles/Labs/01/azuredeploy30301rgc.parameters.json)
 
--  \\AZ303\\AllFiles\\Labs\\01\\az30301e-configure_VMSS_with_data_disk.ps1
+-  [\\AZ303\\AllFiles\\Labs\\01\\az30301e-configure_VMSS_with_data_disk.ps1](https://github.com/mahendra-shinde/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/Allfiles/Labs/01/az30301e-configure_VMSS_with_data_disk.ps1)
 
 
 ## Instructions
